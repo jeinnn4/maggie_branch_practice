@@ -1,1 +1,2 @@
 This is the main branch text.
+This line was added in the maggiebranch.
